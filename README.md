@@ -5,7 +5,7 @@
 
 --- "I've always been fond of soundtracks, for most of them invoke a raw emotion that I simply cannot find in vocal music."
 
-| Syntax | Description |
+| I.P | Nullscape | Deltarune |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Music | Baby Face | Neverending Dark |
+|       || Inescapable | The Dark Sanctuary |
