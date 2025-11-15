@@ -1,2 +1,2 @@
-#1 Test
+#Test
 "My first repository"
